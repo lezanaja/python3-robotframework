@@ -1,0 +1,4 @@
+AwareLibrarySetup/docs/*
+**/*.egg-info/**
+**/wheel/**
+**/.idea/**
