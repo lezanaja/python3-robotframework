@@ -1,15 +1,14 @@
 # ========= wheel ===========
-wheel==0.33.4
+wheel==0.34.2
 
 # ========= robotframework ==========================
-robotframework==3.1.1
+robotframework==3.2.1
 
 # ========= robotframework-ride =====================
-robotframework_ride==1.7.4a1
+robotframework_ride==1.7.4.2
 
-# ========== robotframework-selenium2library ========
-robotframework-selenium2library==3.0.0
-robotframework_seleniumlibrary==3.3.1
+# ========== robotframework-seleniumlibrary ========
+robotframework_seleniumlibrary==4.5.0
 
 
 
